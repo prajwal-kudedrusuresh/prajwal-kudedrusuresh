@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Prajwal Kuderu Suresh — terminal profile card" src="assets/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal-kudedrusuresh/prajwal-kudedrusuresh/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal-kudedrusuresh/prajwal-kudedrusuresh/main/light.svg">
+  <img alt="Prajwal Kuderu Suresh — terminal profile card" src="https://raw.githubusercontent.com/prajwal-kudedrusuresh/prajwal-kudedrusuresh/main/dark.svg">
 </picture>
 
 <br><br>
